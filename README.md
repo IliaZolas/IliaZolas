@@ -5,13 +5,11 @@
 
 🌱 I’m currently learning **React, React Native, AngularJS**
 
-👨‍💻 All of my projects are available at [https://www.iliazolas.com](https://www.iliazolas.com)
+👨‍💻 My job experience and projects are available at [https://www.iliazolas.com](https://www.iliazolas.com)
 
 💬 Ask me about **Ruby, Rails, HTML, CSS, Javascript, Digital Marketing**
 
 📫 How to reach me **ilia.zolas@gmail.com**
-
-📄 Know about my experiences [https://www.iliazolas.com/assets/pdf/IliaZOLAS-CV-2020vis.pdf](https://www.iliazolas.com/assets/pdf/IliaZOLAS-CV-2020vis.pdf)
 
 ⚡ Fun fact, **I love making music**
 
