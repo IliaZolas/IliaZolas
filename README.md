@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Ilia</h1>
 <h3 align="center">A Full Stack Developer and Digital Marketer</h3>
 
-- 🔭 I’m currently working on [BandFeels](https://github.com/IliaZolas/bandfeels)
+🔭 I’m currently working on [BandFeels](https://github.com/IliaZolas/bandfeels)
 
-- 🌱 I’m currently learning **React, React Native**
+🌱 I’m currently learning **React, React Native**
 
-- 👨‍💻 All of my projects are available at [https://www.iliazolas.com](https://www.iliazolas.com)
+👨‍💻 All of my projects are available at [https://www.iliazolas.com](https://www.iliazolas.com)
 
-- 📝 I regularly write articles on [https://www.iliazolas.com](https://www.iliazolas.com)
+📝 I regularly write articles on [https://www.iliazolas.com](https://www.iliazolas.com)
 
-- 💬 Ask me about **Ruby, Rails, HTML,CSS,Javascript, Digital Marketing**
+💬 Ask me about **Ruby, Rails, HTML, CSS, Javascript, Digital Marketing**
 
-- 📫 How to reach me **ilia.zolas@gmail.com**
+📫 How to reach me **ilia.zolas@gmail.com**
 
-- 📄 Know about my experiences [https://www.iliazolas.com/assets/pdf/IliaZOLAS-CV-2020vis.pdf](https://www.iliazolas.com/assets/pdf/IliaZOLAS-CV-2020vis.pdf)
+📄 Know about my experiences [https://www.iliazolas.com/assets/pdf/IliaZOLAS-CV-2020vis.pdf](https://www.iliazolas.com/assets/pdf/IliaZOLAS-CV-2020vis.pdf)
 
-- ⚡ Fun fact **I love making music**
+⚡ Fun fact **I love making music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
