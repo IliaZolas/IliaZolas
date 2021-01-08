@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **React, React Native**
 
-- 👯 I’m looking to collaborate on [Ad Headlines](https://adheadlines.iliazolas.com/)
-
-- 🤝 I’m looking for help with [StereoFeels](https://github.com/IliaZolas/stereofeels)
-
 - 👨‍💻 All of my projects are available at [https://www.iliazolas.com](https://www.iliazolas.com)
 
 - 📝 I regularly write articles on [https://www.iliazolas.com](https://www.iliazolas.com)
