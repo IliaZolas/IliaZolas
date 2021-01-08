@@ -3,11 +3,9 @@
 
 🔭 I’m currently working on [BandFeels](https://github.com/IliaZolas/bandfeels)
 
-🌱 I’m currently learning **React, React Native**
+🌱 I’m currently learning **React, React Native, AngularJS**
 
 👨‍💻 All of my projects are available at [https://www.iliazolas.com](https://www.iliazolas.com)
-
-📝 I regularly write articles on [https://www.iliazolas.com](https://www.iliazolas.com)
 
 💬 Ask me about **Ruby, Rails, HTML, CSS, Javascript, Digital Marketing**
 
@@ -15,7 +13,7 @@
 
 📄 Know about my experiences [https://www.iliazolas.com/assets/pdf/IliaZOLAS-CV-2020vis.pdf](https://www.iliazolas.com/assets/pdf/IliaZOLAS-CV-2020vis.pdf)
 
-⚡ Fun fact **I love making music**
+⚡ Fun fact, **I love making music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
