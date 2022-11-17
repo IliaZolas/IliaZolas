@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ilia</h1>
 <h3 align="center">A Full Stack Developer and Digital Marketer</h3>
 <h3 align="center">
-  <a href="https://iliazolas.herokuapp.com" target="_blank" rel="noreferrer">
+  <a href="https://iliazolas.herokuapp.com" target="_blank">
     👨‍💻 Visit my portfolio and blog
   </a>
 </h3>
