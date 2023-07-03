@@ -7,9 +7,7 @@
   </a>
 </h3>
 <h3 align="center">Languages and Tools:</h3>
-<table>
-  <tr>
-      <td>
+
         <img src="https://img.shields.io/badge/Typescript-%23F72585.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
         <img src="https://img.shields.io/badge/Javascript-%237209B7.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1>
         <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&amp;logo=graphql&amp;logoColor=white" alt="GraphQL">
@@ -22,8 +20,6 @@
         <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&amp;logo=SASS&amp;logoColor=white" alt="SASS">
         <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="Postgres">
         <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB">
-      </td>
-    </tr>
-</table>
+
 
 
