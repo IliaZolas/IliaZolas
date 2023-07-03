@@ -2,6 +2,7 @@
 <h3 align="center">Software Developer and Digital Marketer</h3>
 
  <foreignObject width="100%" height="100%">
+  <div>
  <style>
   .button {
     color: white;
@@ -17,6 +18,7 @@
         👨‍💻 Visit my blog
       </a>
     </h3>
+    </div>
     </foreignObject>
 <h3 align="center">Languages and Tools:</h3>
 
