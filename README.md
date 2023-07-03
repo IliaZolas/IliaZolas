@@ -51,6 +51,7 @@
    <img src="https://img.shields.io/badge/Blender-%23838185.svg?style=for-the-badge&amp;logo=blender&amp;logoColor=white" alt="Blender">
    <img src="https://img.shields.io/badge/Logic%20Pro-%23838185.svg?style=for-the-badge&amp;logo=logic&amp;logoColor=white" alt="Logic Pro">
 </div>
+<br>
 <div align="center">
    <a href="https://iliazolas.herokuapp.com/" target="_blank">
       <img src="https://img.shields.io/badge/Visit%20Blog-%23009c9c.svg?style=for-the-badge&amp;logo=globe&amp;logoColor=%23F7DF1 alt="Link">
