@@ -1,21 +1,13 @@
-<div>
-  <style>
-        .container {
-          display: flex;
-          width: 100%;
-          height: 300px;
-          background-color: black;
-          color: white;
-        }
-      </style>
-</div>
 <h1 align="center">Hi 👋, I'm Ilia</h1>
 <h3 align="center">Software Developer and Digital Marketer</h3>
-<h3 align="center" style="color:white">
-  <a href="https://iliazolas.herokuapp.com" target="_blank" style="text-decoration: none;">
-    👨‍💻 Visit my blog
-  </a>
-</h3>
+
+ <foreignObject width="100%" height="100%">
+    <h3 align="center">
+      <a href="https://iliazolas.herokuapp.com" target="_blank" style="text-decoration: none;">
+        👨‍💻 Visit my blog
+      </a>
+    </h3>
+    </foreignObject>
 <h3 align="center">Languages and Tools:</h3>
 
 <div align="center">
