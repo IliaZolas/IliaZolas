@@ -1,11 +1,11 @@
-<head>
+
   <style>
     .flex {
       display: flex;
       justify-content: space-around;
       }
   </style>
-</head>
+
 <body>
   <h1 align="center">Hi 👋, I'm Ilia</h1>
   <h3 align="center">Software Developer and Digital Marketer</h3>
