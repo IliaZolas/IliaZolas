@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ilia</h1>
 <h2 align="center">Software Developer and Digital Marketer</h2>
 <div align="center">
-   <p>Passionate about delivering beautiful applications based on clean <br> and efficient code with advanced insights into digital marketing.</p>
+   <p>Passionate about delivering beautiful applications based on clean and efficient <br>  code with advanced insights into digital marketing.</p>
 </div>
 <h3 align="center">Interests</h3>
 <div align="center">
