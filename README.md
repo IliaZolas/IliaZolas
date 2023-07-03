@@ -15,11 +15,18 @@
       <td>
         <img src="https://img.shields.io/badge/Javascript-%237209B7.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
       </td>
+      <td>
         <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&amp;logo=graphql&amp;logoColor=white" alt="GraphQL">
+      </td>
+      <td>
         <img src="https://img.shields.io/badge/Express.js-%233A0CA3.svg?style=for-the-badge&amp;logo=express&amp;logoColor=%2361DAFB" alt="Express.js">
+      </td>
+      <td>
         <img src="https://img.shields.io/badge/WordPress-%234361EE.svg?style=for-the-badge&amp;logo=wordpress&amp;logoColor=%2361DAFB" alt="WordPress">
+      </td>
+      <td>
         <img src="https://img.shields.io/badge/Shopify-%234CC9F0.svg?style=for-the-badge&amp;logo=shopify&amp;logoColor=%2361DAFB" alt="Shopify">
-      
+      </td>
       <td>
         <img src="https://img.shields.io/badge/NPM-%23F48020.svg?style=for-the-badge&amp;logo=npm&amp;logoColor=white" alt="NPM">
         <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="NodeJS">
