@@ -4,7 +4,7 @@
    <p>Passionate about delivering beautiful applications based on clean and efficient <br>  code with advanced insights into digital marketing.</p>
 </div>
 <h3 align="center">Interests</h3>
-<div align="center">
+<div align="column">
    <img src="https://img.shields.io/badge/Music-%23838185.svg?style=for-the-badge&amp;logoColor=white" alt="Music">
    <img src="https://img.shields.io/badge/Webapp%20Development-%23838185.svg?style=for-the-badge&amp;logoColor=white" alt="WebApp">
    <img src="https://img.shields.io/badge/UI%20|%20UX-%23838185.svg?style=for-the-badge&amp;logoColor=white" alt="uiux">
