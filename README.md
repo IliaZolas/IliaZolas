@@ -21,7 +21,7 @@
 </div>
 <h3 align="center">TOOLS & SOFTWARE</h3>
 <div align="center">
-   <img src="https://img.shields.io/badge/VS%20Code-%23838185.svg?style=for-the-badge&amp;logo=vscode&amp;logoColor=white" alt="VS Code">
+   <img src="https://img.shields.io/badge/VS%20Code-%23838185.svg?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" alt="VS Code">
    <img src="https://img.shields.io/badge/Google%20Analytics%204-%23838185.svg?style=for-the-badge&amp;logo=googleanalytics&amp;logoColor=white" alt="Google Analytics">
    <img src="https://img.shields.io/badge/Google%20Tag%20Manager-%23838185.svg?style=for-the-badge&amp;logo=googleanalytics&amp;logoColor=white" alt="Google Tag Manager">
    <img src="https://img.shields.io/badge/Google%20Search%20Console-%23838185.svg?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Google Search Console">
@@ -29,6 +29,7 @@
    <img src="https://img.shields.io/badge/Facebook%20Ads%20Manager-%23838185.svg?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook">
    <img src="https://img.shields.io/badge/Linkedin%20Ads-%23838185.svg?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Linkedin">
    <img src="https://img.shields.io/badge/Twitter%20Ads-%23838185.svg?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="Twitter">
+   <img src="https://img.shields.io/badge/Semrush-%23838185.svg?style=for-the-badge&amp;logo=semrush&amp;logoColor=white" alt="SEMrush">
    <img src="https://img.shields.io/badge/Hootsuite-%23838185.svg?style=for-the-badge&amp;logo=owl&amp;logoColor=white" alt="Hootsuite">
    <img src="https://img.shields.io/badge/Mailchimp-%23838185.svg?style=for-the-badge&amp;logo=mailchimp&amp;logoColor=white" alt="Mailchimp">
    <img src="https://img.shields.io/badge/iContact-%23838185.svg?style=for-the-badge&amp;logo=email&amp;logoColor=white" alt="iContact">
