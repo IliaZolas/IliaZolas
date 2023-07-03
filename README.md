@@ -3,22 +3,19 @@
 
 <h3 align="center">Interests</h3>
 
-<div>
-   <img src="https://img.shields.io/badge/Webapp%20Development-%23838185.svg?style=for-the-badge&amp;logo=internet&amp;logoColor=white" alt="WebApp">
-   
-UI%20|%20UX
-Analytics
-Commerce
-Sustainability
-Crypto
-Blockchain
-Artificial%20Intelligence
-Product%20Development
-Entrepreneurship
-Virtual%20Reality
-Story%20Telling
-Gaming
-Music
+<div align="center">
+   <img src="https://img.shields.io/badge/Music-%23838185.svg?style=for-the-badge&amp;logoColor=white" alt="Music">
+   <img src="https://img.shields.io/badge/Webapp%20Development-%23838185.svg?style=for-the-badge&amp;logoColor=white" alt="WebApp">
+   <img src="https://img.shields.io/badge/UI%20|%20UX-%23838185.svg?style=for-the-badge&amp;logoColor=white" alt="uiux">
+   <img src="https://img.shields.io/badge/Analytics-%23838185.svg?style=for-the-badge&amp;logoColor=white" alt="analytics">
+   <img src="https://img.shields.io/badge/Commerce-%23838185.svg?style=for-the-badge&amp;logoColor=white" alt="Commerce">
+   <img src="https://img.shields.io/badge/Artificial%20Intelligence-%23838185.svg?style=for-the-badge&amp;logoColor=white" alt="Artificial%20Intelligence">
+   <img src="https://img.shields.io/badge/Product%20Development-%23838185.svg?style=for-the-badge&amp;logoColor=white" alt="ProductDevelopment">
+   <img src="https://img.shields.io/badge/Entrepreneurship-%23838185.svg?style=for-the-badge&amp;logoColor=white" alt="Entrepreneurship">
+   <img src="https://img.shields.io/badge/Virtual%20Reality-%23838185.svg?style=for-the-badge&amp;logoColor=white" alt="Virtual%20Reality">
+   <img src="https://img.shields.io/badge/Story%20Telling-%23838185.svg?style=for-the-badge&amp;logoColor=white" alt="Story%20Telling">
+   <img src="https://img.shields.io/badge/Sustainability-%23838185.svg?style=for-the-badge&amp;logoColor=white" alt="Sustainability">
+   <img src="https://img.shields.io/badge/Gaming-%23838185.svg?style=for-the-badge&amp;logoColor=white" alt="Gaming">
 </div>
 
 <div align="center">
