@@ -43,7 +43,7 @@
    <img src="https://img.shields.io/badge/Webapp%20Development-%23838185.svg?style=for-the-badge&amp;logoColor=white" alt="WebApp">
    <img src="https://img.shields.io/badge/UI%20|%20UX-%23838185.svg?style=for-the-badge&amp;logoColor=white" alt="uiux">
    <img src="https://img.shields.io/badge/Analytics-%23838185.svg?style=for-the-badge&amp;logoColor=white" alt="analytics">
-   <img src="https://img.shields.io/badge/E\u2014Commerce-%23838185.svg?style=for-the-badge&amp;logoColor=white" alt="Commerce">
+   <img src="https://img.shields.io/badge/E\uCommerce-%23838185.svg?style=for-the-badge&amp;logoColor=white" alt="Commerce">
    <img src="https://img.shields.io/badge/Artificial%20Intelligence-%23838185.svg?style=for-the-badge&amp;logoColor=white" alt="Artificial%20Intelligence">
    <img src="https://img.shields.io/badge/Product%20Development-%23838185.svg?style=for-the-badge&amp;logoColor=white" alt="ProductDevelopment">
    <img src="https://img.shields.io/badge/Entrepreneurship-%23838185.svg?style=for-the-badge&amp;logoColor=white" alt="Entrepreneurship">
