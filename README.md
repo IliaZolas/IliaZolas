@@ -6,7 +6,9 @@
    </a>
 </h3>
 
+<div>
 <img src="https://img.shields.io/badge/Visit%20Blog-%237209B7.svg?style=for-the-badge&amp;logo=link&amp;logoColor=%23F7DF1 alt="Link">
+</div>   
 
 <h3 align="center">Languages and Tools:</h3>
 
