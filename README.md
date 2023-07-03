@@ -49,7 +49,7 @@
    <img src="https://img.shields.io/badge/Hubspot-%23838185.svg?style=for-the-badge&amp;logo=hubspot&amp;logoColor=white" alt="Hubspot">
    <img src="https://img.shields.io/badge/Creative%20Suite-%23838185.svg?style=for-the-badge&amp;logo=adobe&amp;logoColor=white" alt="Creative Suite">
    <img src="https://img.shields.io/badge/Blender-%23838185.svg?style=for-the-badge&amp;logo=blender&amp;logoColor=white" alt="Blender">
-   <img src="https://img.shields.io/badge/Logic%20Pro-%23838185.svg?style=for-the-badge&amp;logo=logicpro&amp;logoColor=white" alt="Logic Pro">
+   <img src="https://img.shields.io/badge/Logic%20Pro-%23838185.svg?style=for-the-badge&amp;logo=logic&amp;logoColor=white" alt="Logic Pro">
 </div>
 <div align="center">
    <a href="https://iliazolas.herokuapp.com/" target="_blank">
