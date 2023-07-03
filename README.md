@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Ilia</h1>
 <h3 align="center">Software Developer and Digital Marketer</h3>
-<h3 align="center">
-  <a href="https://iliazolas.herokuapp.com" target="_blank">
-    👨‍💻 Visit my portfolio and blog
+<h3 align="center" style="color:white">
+  <a href="https://iliazolas.herokuapp.com" target="_blank" style="text-decoration: none;">
+    👨‍💻 Visit my blog
   </a>
 </h3>
 <h3 align="center">Languages and Tools:</h3>
