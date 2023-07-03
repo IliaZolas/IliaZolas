@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ilia</h1>
-<h2 align="center">Full Stack Developer | Digital Marketer</h2>
+<h1 align="center">Full Stack Developer | Digital Marketer</h1>
 <div align="center">
    <p>Passionate about delivering beautiful applications based on clean and efficient <br>  code with advanced insights into digital marketing.</p>
 </div>
