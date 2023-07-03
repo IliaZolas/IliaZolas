@@ -44,6 +44,12 @@
    <img src="https://img.shields.io/badge/Google%20Analytics%204-%23838185.svg?style=for-the-badge&amp;logo=googleanalytics&amp;logoColor=white" alt="GoogleAnalytics">
    <img src="https://img.shields.io/badge/Google%20Search%20Console-%23838185.svg?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="GoogleSearchConsole">
    <img src="https://img.shields.io/badge/Google%20Ads-%23838185.svg?style=for-the-badge&amp;logo=googleads&amp;logoColor=white" alt="GoogleAds">
-   <img src="https://img.shields.io/badge/Facebook%20Business%20Manager-%23838185.svg?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook">
+   <img src="https://img.shields.io/badge/Facebook%20Ads%20Manager-%23838185.svg?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook">
+   <img src="https://img.shields.io/badge/Linkedin%20Ads-%23838185.svg?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Linkedin">
+   <img src="https://img.shields.io/badge/Twitter%20Ads-%23838185.svg?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Twitter">
+   <img src="https://img.shields.io/badge/Hootsuite-%23838185.svg?style=for-the-badge&amp;logo=owl&amp;logoColor=white" alt="Hootsuite">
+   <img src="https://img.shields.io/badge/Mailchimp-%23838185.svg?style=for-the-badge&amp;logo=mailchimp&amp;logoColor=white" alt="Mailchimp">
+   <img src="https://img.shields.io/badge/iContact-%23838185.svg?style=for-the-badge&amp;logo=email&amp;logoColor=white" alt="iContact">
+   <img src="https://img.shields.io/badge/Hubspot-%23838185.svg?style=for-the-badge&amp;logo=hubspot&amp;logoColor=white" alt="Hubspot">
 </div>
 
