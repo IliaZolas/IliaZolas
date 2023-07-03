@@ -3,6 +3,7 @@
 <p>Passionate about delivering beautiful applications based on clean and efficient code with advanced insights into digital marketing.</p>
 <h3 align="center">Interests</h3>
 <div align="center">
+   <a href="https://iliazolas.herokuapp.com/" target="_blank">
    <img src="https://img.shields.io/badge/Music-%23838185.svg?style=for-the-badge&amp;logoColor=white" alt="Music">
    <img src="https://img.shields.io/badge/Webapp%20Development-%23838185.svg?style=for-the-badge&amp;logoColor=white" alt="WebApp">
    <img src="https://img.shields.io/badge/UI%20|%20UX-%23838185.svg?style=for-the-badge&amp;logoColor=white" alt="uiux">
@@ -15,6 +16,7 @@
    <img src="https://img.shields.io/badge/Story%20Telling-%23838185.svg?style=for-the-badge&amp;logoColor=white" alt="Story%20Telling">
    <img src="https://img.shields.io/badge/Sustainability-%23838185.svg?style=for-the-badge&amp;logoColor=white" alt="Sustainability">
    <img src="https://img.shields.io/badge/Gaming-%23838185.svg?style=for-the-badge&amp;logoColor=white" alt="Gaming">
+   </a>
 </div>
 <div align="center">
    <a href="https://iliazolas.herokuapp.com/" target="_blank">
