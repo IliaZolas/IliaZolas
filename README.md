@@ -37,7 +37,7 @@
    <img src="https://img.shields.io/badge/Blender-%23838185.svg?style=for-the-badge&amp;logo=blender&amp;logoColor=white" alt="Blender">
    <img src="https://img.shields.io/badge/Logic%20Pro-%23838185.svg?style=for-the-badge&amp;logo=logic&amp;logoColor=white" alt="Logic Pro">
 </div>
-<h3 align="center">Interests</h3>
+<h3 align="center">INTERESTS</h3>
 <div align="center">
    <img src="https://img.shields.io/badge/Music-%23838185.svg?style=for-the-badge&amp;logoColor=white" alt="Music">
    <img src="https://img.shields.io/badge/Webapp%20Development-%23838185.svg?style=for-the-badge&amp;logoColor=white" alt="WebApp">
