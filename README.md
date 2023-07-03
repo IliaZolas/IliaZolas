@@ -1,13 +1,28 @@
 <h1 align="center">Hi 👋, I'm Ilia</h1>
-<h3 align="center">Software Developer and Digital Marketer</h3>
-<h3 align="center">
-   <a href="https://iliazolas.herokuapp.com" target="_blank" class="button">
-     👨‍💻 Visit my blog
-   </a>
-</h3>
+<h2 align="center">Software Developer and Digital Marketer</h2>
+
+<h3 align="center">Interests</h3>
+
+<div>
+   <img src="https://img.shields.io/badge/Webapp%20Development-%23838185.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB">
+   
+UI%20|%20UX
+Analytics
+Commerce
+Sustainability
+Crypto
+Blockchain
+Artificial%20Intelligence
+Product%20Development
+Entrepreneurship
+Virtual%20Reality
+Story%20Telling
+Gaming
+Music
+</div>
 
 <div align="center">
-<img src="https://img.shields.io/badge/Visit%20Blog-%237209B7.svg?style=for-the-badge&amp;logo=link&amp;logoColor=%23F7DF1 alt="Link">
+   <img src="https://img.shields.io/badge/Visit%20Blog-%237209B7.svg?style=for-the-badge&amp;logo=link&amp;logoColor=%23F7DF1 alt="Link">
 </div>   
 
 <h3 align="center">Languages and Tools:</h3>
