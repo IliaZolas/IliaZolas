@@ -1,22 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ilia</h1>
 <h3 align="center">Software Developer and Digital Marketer</h3>
+<h3 align="center">
+   <a href="https://iliazolas.herokuapp.com" target="_blank" class="button">
+     👨‍💻 Visit my blog
+   </a>
+</h3>
 
- <foreignObject width="100%" height="100%">
-  <div>
- <style>
-  .button {
-    color: white;
-    background: #009c9c;
-    text-decoration: none;
-   }
- </style>
-    <h3 align="center">
-      <a href="https://iliazolas.herokuapp.com" target="_blank" class="button">
-        👨‍💻 Visit my blog
-      </a>
-    </h3>
-    </div>
-    </foreignObject>
+<img src="https://img.shields.io/badge/Visit%20Blog-%237209B7.svg?style=for-the-badge&amp;logo=link&amp;logoColor=%23F7DF1 alt="Link">
+
 <h3 align="center">Languages and Tools:</h3>
 
 <div align="center">
