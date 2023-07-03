@@ -47,7 +47,7 @@
    <img src="https://img.shields.io/badge/Google%20Ads-%23838185.svg?style=for-the-badge&amp;logo=googleads&amp;logoColor=white" alt="Google Ads">
    <img src="https://img.shields.io/badge/Facebook%20Ads%20Manager-%23838185.svg?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook">
    <img src="https://img.shields.io/badge/Linkedin%20Ads-%23838185.svg?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Linkedin">
-   <img src="https://img.shields.io/badge/Twitter%20Ads-%23838185.svg?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Twitter">
+   <img src="https://img.shields.io/badge/Twitter%20Ads-%23838185.svg?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="Twitter">
    <img src="https://img.shields.io/badge/Hootsuite-%23838185.svg?style=for-the-badge&amp;logo=owl&amp;logoColor=white" alt="Hootsuite">
    <img src="https://img.shields.io/badge/Mailchimp-%23838185.svg?style=for-the-badge&amp;logo=mailchimp&amp;logoColor=white" alt="Mailchimp">
    <img src="https://img.shields.io/badge/iContact-%23838185.svg?style=for-the-badge&amp;logo=email&amp;logoColor=white" alt="iContact">
