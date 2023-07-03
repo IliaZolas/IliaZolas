@@ -18,11 +18,6 @@
    <img src="https://img.shields.io/badge/Sustainability-%23838185.svg?style=for-the-badge&amp;logoColor=white" alt="Sustainability">
    <img src="https://img.shields.io/badge/Gaming-%23838185.svg?style=for-the-badge&amp;logoColor=white" alt="Gaming">
 </div>
-<div align="center">
-   <a href="https://iliazolas.herokuapp.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Visit%20Blog-%23009c9c.svg?style=for-the-badge&amp;logo=link&amp;logoColor=%23F7DF1 alt="Link">
-   </a>
-</div>   
 <h3 align="center">TECH STACK</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Ruby%20on%20Rails-%23838185.svg?style=for-the-badge&amp;logo=rubyonrails&amp;logoColor=white" alt="RubyonRails">
@@ -55,4 +50,8 @@
    <img src="https://img.shields.io/badge/Creative%20Suite-%23838185.svg?style=for-the-badge&amp;logo=adobe&amp;logoColor=white" alt="Creative Suite">
    <img src="https://img.shields.io/badge/Logic%20Pro-%23838185.svg?style=for-the-badge&amp;logo=logicpro&amp;logoColor=white" alt="Logic Pro">
 </div>
-
+<div align="center">
+   <a href="https://iliazolas.herokuapp.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Visit%20Blog-%23009c9c.svg?style=for-the-badge&amp;logo=cursor&amp;logoColor=%23F7DF1 alt="Link">
+   </a>
+</div>   
