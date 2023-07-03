@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/GraphQL-%23838185?style=for-the-badge&amp;logo=graphql&amp;logoColor=white" alt="GraphQL">
   <img src="https://img.shields.io/badge/Express.js-%23838185.svg?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="Express.js">
   <img src="https://img.shields.io/badge/WordPress-%23838185.svg?style=for-the-badge&amp;logo=wordpress&amp;logoColor=white" alt="WordPress">
-  <img src="https://img.shields.io/badge/Shopify-%23838185.svg?style=for-the-badge&amp;logo=shopify&amp;logoColor=white" alt="Shopify">
+  <img src="https://img.shields.io/badge/Liquid-%23838185.svg?style=for-the-badge&amp;logo=shopify&amp;logoColor=white" alt="Shopify">
   <img src="https://img.shields.io/badge/NPM-%23838185.svg?style=for-the-badge&amp;logo=npm&amp;logoColor=white" alt="NPM">
   <img src="https://img.shields.io/badge/Node.js-%23838185?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="NodeJS">
   <img src="https://img.shields.io/badge/React-%23838185.svg?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="React">
@@ -41,9 +41,10 @@
 </div>
 <h3 align="center">TOOLS & SOFTWARE</h3>
 <div align="center">
-   <img src="https://img.shields.io/badge/Google%20Analytics%204-%23838185.svg?style=for-the-badge&amp;logo=googleanalytics&amp;logoColor=white" alt="GoogleAnalytics">
-   <img src="https://img.shields.io/badge/Google%20Search%20Console-%23838185.svg?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="GoogleSearchConsole">
-   <img src="https://img.shields.io/badge/Google%20Ads-%23838185.svg?style=for-the-badge&amp;logo=googleads&amp;logoColor=white" alt="GoogleAds">
+   <img src="https://img.shields.io/badge/Google%20Analytics%204-%23838185.svg?style=for-the-badge&amp;logo=googleanalytics&amp;logoColor=white" alt="Google Analytics">
+   <img src="https://img.shields.io/badge/Google%20Tag%20Manager-%23838185.svg?style=for-the-badge&amp;logo=googleanalytics&amp;logoColor=white" alt="Google Tag Manager">
+   <img src="https://img.shields.io/badge/Google%20Search%20Console-%23838185.svg?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Google Search Console">
+   <img src="https://img.shields.io/badge/Google%20Ads-%23838185.svg?style=for-the-badge&amp;logo=googleads&amp;logoColor=white" alt="Google Ads">
    <img src="https://img.shields.io/badge/Facebook%20Ads%20Manager-%23838185.svg?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook">
    <img src="https://img.shields.io/badge/Linkedin%20Ads-%23838185.svg?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Linkedin">
    <img src="https://img.shields.io/badge/Twitter%20Ads-%23838185.svg?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Twitter">
@@ -51,5 +52,7 @@
    <img src="https://img.shields.io/badge/Mailchimp-%23838185.svg?style=for-the-badge&amp;logo=mailchimp&amp;logoColor=white" alt="Mailchimp">
    <img src="https://img.shields.io/badge/iContact-%23838185.svg?style=for-the-badge&amp;logo=email&amp;logoColor=white" alt="iContact">
    <img src="https://img.shields.io/badge/Hubspot-%23838185.svg?style=for-the-badge&amp;logo=hubspot&amp;logoColor=white" alt="Hubspot">
+   <img src="https://img.shields.io/badge/Creative%20Suite-%23838185.svg?style=for-the-badge&amp;logo=adobe&amp;logoColor=white" alt="Creative Suite">
+   <img src="https://img.shields.io/badge/Logic%20Pro-%23838185.svg?style=for-the-badge&amp;logo=adobe&amp;logoColor=white" alt="Logic Pro">
 </div>
 
