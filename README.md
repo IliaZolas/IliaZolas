@@ -21,7 +21,7 @@
 </div>   
 <h3 align="center">TECH STACK</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/RubyonRails-%23b7094c.svg?style=for-the-badge&amp;logo=rubyonrails&amp;logoColor=white" alt="RubyonRails">
+  <img src="https://img.shields.io/badge/Ruby%20on%20Rails-%23b7094c.svg?style=for-the-badge&amp;logo=rubyonrails&amp;logoColor=white" alt="RubyonRails">
   <img src="https://img.shields.io/badge/Typescript-%23F72585.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Javascript-%237209B7.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" alt="JavaScript">
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&amp;logo=graphql&amp;logoColor=white" alt="GraphQL">
