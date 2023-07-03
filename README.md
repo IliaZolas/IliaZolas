@@ -10,7 +10,7 @@
 
 <div>
   <img src="https://img.shields.io/badge/Typescript-%23F72585.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Javascript-%237209B7.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1>
+  <img src="https://img.shields.io/badge/Javascript-%237209B7.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1 alt="JavaScript">
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&amp;logo=graphql&amp;logoColor=white" alt="GraphQL">
   <img src="https://img.shields.io/badge/Express.js-%233A0CA3.svg?style=for-the-badge&amp;logo=express&amp;logoColor=%2361DAFB" alt="Express.js">
   <img src="https://img.shields.io/badge/WordPress-%234361EE.svg?style=for-the-badge&amp;logo=wordpress&amp;logoColor=%2361DAFB" alt="WordPress">
