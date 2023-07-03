@@ -4,7 +4,7 @@
    <p>Passionate about delivering beautiful applications based on clean and efficient <br>  code with advanced insights into digital marketing.</p>
 </div>
 <h3 align="center">Interests</h3>
-<div align="column">
+<div align="center">
    <img src="https://img.shields.io/badge/Music-%23838185.svg?style=for-the-badge&amp;logoColor=white" alt="Music">
    <img src="https://img.shields.io/badge/Webapp%20Development-%23838185.svg?style=for-the-badge&amp;logoColor=white" alt="WebApp">
    <img src="https://img.shields.io/badge/UI%20|%20UX-%23838185.svg?style=for-the-badge&amp;logoColor=white" alt="uiux">
@@ -38,5 +38,10 @@
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&amp;logo=SASS&amp;logoColor=white" alt="SASS">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="Postgres">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB">
+</div>
+<h3 align="center">TOOLS & SOFTWARE</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Google%20Analytics%204-%23FF5D73.svg?style=for-the-badge&amp;logo=googleanalytics&amp;logoColor=white" alt="GoogleAnalytics">
+  <img src="https://img.shields.io/badge/Google%20Search%20Console-%23F72585.svg?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="GoogleSearchConsole">
 </div>
 
