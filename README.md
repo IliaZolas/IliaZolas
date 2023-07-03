@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ilia</h1>
 <h2 align="center">Software Developer and Digital Marketer</h2>
+<p>Passionate about delivering beautiful applications based on clean and efficient code with advanced insights into digital marketing.</p>
 <h3 align="center">Interests</h3>
 <div align="center">
    <img src="https://img.shields.io/badge/Music-%23838185.svg?style=for-the-badge&amp;logoColor=white" alt="Music">
