@@ -7,14 +7,11 @@
   .button {
     color: white;
     background: #009c9c;
+    text-decoration: none;
    }
-
-  a {
-   text-decoration: none;
-  }
  </style>
     <h3 align="center">
-      <a href="https://iliazolas.herokuapp.com" target="_blank" style="text-decoration: none;">
+      <a href="https://iliazolas.herokuapp.com" target="_blank" class="button">
         👨‍💻 Visit my blog
       </a>
     </h3>
