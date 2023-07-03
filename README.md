@@ -4,7 +4,7 @@
 <h3 align="center">Interests</h3>
 
 <div>
-   <img src="https://img.shields.io/badge/Webapp%20Development-%23838185.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB">
+   <img src="https://img.shields.io/badge/Webapp%20Development-%23838185.svg?style=for-the-badge&amp;logo=internet&amp;logoColor=white" alt="WebApp">
    
 UI%20|%20UX
 Analytics
