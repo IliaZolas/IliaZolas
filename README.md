@@ -44,6 +44,6 @@
    <img src="https://img.shields.io/badge/Google%20Analytics%204-%23FF5D73.svg?style=for-the-badge&amp;logo=googleanalytics&amp;logoColor=white" alt="GoogleAnalytics">
    <img src="https://img.shields.io/badge/Google%20Search%20Console-%23F72585.svg?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="GoogleSearchConsole">
    <img src="https://img.shields.io/badge/Google%20Ads-%23FF4760.svg?style=for-the-badge&amp;logo=googleads&amp;logoColor=white" alt="GoogleAds">
-   <img src="https://img.shields.io/badge/Facebook-Business-Manager-%23FF4760.svg?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="GoogleSearchConsole">
+   <img src="https://img.shields.io/badge/Facebook%20Business%20Manager-%23FF4760.svg?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook">
 </div>
 
