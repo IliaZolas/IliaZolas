@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&amp;logo=graphql&amp;logoColor=white" alt="GraphQL">
   <img src="https://img.shields.io/badge/Express.js-%233A0CA3.svg?style=for-the-badge&amp;logo=express&amp;logoColor=%2361DAFB" alt="Express.js">
   <img src="https://img.shields.io/badge/WordPress-%234361EE.svg?style=for-the-badge&amp;logo=wordpress&amp;logoColor=%2361DAFB" alt="WordPress">
-  <img src="https://img.shields.io/badge/Shopify-%234CC9F0.svg?style=for-the-badge&amp;logo=shopify&amp;logoColor=%2361DAFB" alt="Shopify">
+  <img src="https://img.shields.io/badge/Shopify-%234CC9F0.svg?style=for-the-badge&amp;logo=shopify&amp;logoColor=white" alt="Shopify">
   <img src="https://img.shields.io/badge/NPM-%23F48020.svg?style=for-the-badge&amp;logo=npm&amp;logoColor=white" alt="NPM">
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="NodeJS">
   <img src="https://img.shields.io/badge/React-%23586F7C.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="React">
