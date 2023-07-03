@@ -2,6 +2,16 @@
 <h3 align="center">Software Developer and Digital Marketer</h3>
 
  <foreignObject width="100%" height="100%">
+ <style>
+  .button {
+    color: white;
+    background: #009c9c;
+   }
+
+  a {
+   text-decoration: none;
+  }
+ </style>
     <h3 align="center">
       <a href="https://iliazolas.herokuapp.com" target="_blank" style="text-decoration: none;">
         👨‍💻 Visit my blog
