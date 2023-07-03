@@ -18,7 +18,7 @@
 <div align="center">
    <img src="https://img.shields.io/badge/Visit%20Blog-%23009c9c.svg?style=for-the-badge&amp;logo=link&amp;logoColor=%23F7DF1 alt="Link">
 </div>   
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">TECH STACK</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/RubyonRails-%23b7094c.svg?style=for-the-badge&amp;logo=rubyonrails&amp;logoColor=white" alt="RubyonRails">
   <img src="https://img.shields.io/badge/Typescript-%23F72585.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
