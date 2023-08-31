@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/MongoDB-%23838185.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB">
    <img src="https://img.shields.io/badge/Heroku-%23838185.svg?style=for-the-badge&amp;logo=heroku&amp;logoColor=white" alt="Heroku">
    <img src="https://img.shields.io/badge/Azure-%23838185.svg?style=for-the-badge&amp;logo=microsoft&amp;logoColor=white" alt="Azure">
+   <img src="https://img.shields.io/badge/OpenAI-%23838185.svg?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="OpenAI">
 </div>
 <h3 align="center">TOOLS & SOFTWARE</h3>
 <div align="center">
