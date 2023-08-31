@@ -29,7 +29,7 @@
    <img src="https://img.shields.io/badge/Google%20Search%20Console-%23838185.svg?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Google Search Console">
    <img src="https://img.shields.io/badge/Google%20Ads-%23838185.svg?style=for-the-badge&amp;logo=googleads&amp;logoColor=white" alt="Google Ads">
    <img src="https://img.shields.io/badge/Facebook%20Ads%20Manager-%23838185.svg?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook">
-   <img src="https://img.shields.io/badge/Linkedin%20Ads-%23838185.svg?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Linkedin">
+   <img src="https://img.shields.io/badge/Linkedin%20Ads-%23838185.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin">
    <img src="https://img.shields.io/badge/Twitter%20Ads-%23838185.svg?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="Twitter">
    <img src="https://img.shields.io/badge/Semrush-%23838185.svg?style=for-the-badge&amp;logo=semrush&amp;logoColor=white" alt="SEMrush">
    <img src="https://img.shields.io/badge/Hootsuite-%23838185.svg?style=for-the-badge&amp;logo=hootsuite&amp;logoColor=white" alt="Hootsuite">
