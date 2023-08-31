@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/GraphQL-%23838185?style=for-the-badge&amp;logo=graphql&amp;logoColor=white" alt="GraphQL">
   <img src="https://img.shields.io/badge/Express.js-%23838185.svg?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="Express.js">
   <img src="https://img.shields.io/badge/WordPress-%23838185.svg?style=for-the-badge&amp;logo=wordpress&amp;logoColor=white" alt="WordPress">
-  <img src="https://img.shields.io/badge/Liquid-%23838185.svg?style=for-the-badge&amp;logo=shopify&amp;logoColor=white" alt="Shopify">
+  <img src="https://img.shields.io/badge/Shopify-%23838185.svg?style=for-the-badge&amp;logo=shopify&amp;logoColor=white" alt="Shopify">
   <img src="https://img.shields.io/badge/NPM-%23838185.svg?style=for-the-badge&amp;logo=npm&amp;logoColor=white" alt="NPM">
   <img src="https://img.shields.io/badge/Node.js-%23838185?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="NodeJS">
   <img src="https://img.shields.io/badge/React-%23838185.svg?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="React">
