@@ -55,6 +55,7 @@
    <img src="https://img.shields.io/badge/Story%20Telling-%23838185.svg?style=for-the-badge&amp;logoColor=white" alt="Story%20Telling">
    <img src="https://img.shields.io/badge/Sustainability-%23838185.svg?style=for-the-badge&amp;logoColor=white" alt="Sustainability">
    <img src="https://img.shields.io/badge/Gaming-%23838185.svg?style=for-the-badge&amp;logoColor=white" alt="Gaming">
+   <img src="https://img.shields.io/badge/Fitness-%23838185.svg?style=for-the-badge&amp;logoColor=white" alt="Fitness">
 </div>
 <br>
 <div align="center">
