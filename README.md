@@ -62,5 +62,6 @@
    <a href="https://iliazolas.herokuapp.com/" target="_blank">
       <img src="https://img.shields.io/badge/Visit%20Blog-%23009c9c.svg?style=for-the-badge&amp;logo=globe&amp;logoColor=%23F7DF1 alt="Link">
    </a>
-</div>   
+</div>
+<br>
 <img src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif" width="100%">
