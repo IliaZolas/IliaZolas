@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/SUcnmocyRKkfSil9xd/giphy.gif">
+<img src="https://media.giphy.com/media/SUcnmocyRKkfSil9xd/giphy.gif" width="100%">
 
 <h1 align="center">Full Stack Developer | Digital Marketer</h1>
 <div align="center">
