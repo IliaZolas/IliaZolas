@@ -1,5 +1,3 @@
-<img src="https://media.giphy.com/media/SUcnmocyRKkfSil9xd/giphy.gif" width="100%">
-
 <h1 align="center">Full Stack Developer | Digital Marketer</h1>
 <div align="center">
    <p>Passionate about delivering beautiful applications based on clean and efficient <br>  code with advanced insights into digital marketing.</p>
@@ -65,3 +63,4 @@
       <img src="https://img.shields.io/badge/Visit%20Blog-%23009c9c.svg?style=for-the-badge&amp;logo=globe&amp;logoColor=%23F7DF1 alt="Link">
    </a>
 </div>   
+<img src="https://media.giphy.com/media/SUcnmocyRKkfSil9xd/giphy.gif" width="100%">
