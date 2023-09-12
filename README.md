@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/SUcnmocyRKkfSil9xd/giphy.gif">
+
 <h1 align="center">Full Stack Developer | Digital Marketer</h1>
 <div align="center">
    <p>Passionate about delivering beautiful applications based on clean and efficient <br>  code with advanced insights into digital marketing.</p>
