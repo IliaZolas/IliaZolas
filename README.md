@@ -63,4 +63,4 @@
       <img src="https://img.shields.io/badge/Visit%20Blog-%23009c9c.svg?style=for-the-badge&amp;logo=globe&amp;logoColor=%23F7DF1 alt="Link">
    </a>
 </div>   
-<img src="https://media.giphy.com/media/SUcnmocyRKkfSil9xd/giphy.gif](https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif)https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif" width="100%">
+<img src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif" width="100%">
