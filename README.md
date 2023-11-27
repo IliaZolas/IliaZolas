@@ -21,6 +21,7 @@
    <img src="https://img.shields.io/badge/Azure-%23838185.svg?style=for-the-badge&amp;logo=microsoft&amp;logoColor=white" alt="Azure">
    <img src="https://img.shields.io/badge/Railway-%23838185.svg?style=for-the-badge&amp;logo=railway&amp;logoColor=white" alt="Railway">
    <img src="https://img.shields.io/badge/OpenAI-%23838185.svg?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="OpenAI">
+   <img src="https://img.shields.io/badge/Payload%20CMS-%23838185.svg?style=for-the-badge&amp;logo=payloadcms&amp;logoColor=white" alt="Payload CMS">
 </div>
 <h3 align="center">TOOLS & SOFTWARE</h3>
 <div align="center">
