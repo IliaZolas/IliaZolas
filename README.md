@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/Node.js-%23838185?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="NodeJS">
   <img src="https://img.shields.io/badge/React-%23838185.svg?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="React">
    <img src="https://img.shields.io/badge/Next.js-%23838185.svg?style=for-the-badge&amp;logo=next.js&amp;logoColor=white" alt="NextJS">
+   <img src="https://img.shields.io/badge/Angular-%23838185.svg?style=for-the-badge&amp;logo=angular&amp;logoColor=white" alt="Angular">
   <img src="https://img.shields.io/badge/SASS-%23838185.svg?style=for-the-badge&amp;logo=SASS&amp;logoColor=white" alt="SASS">
   <img src="https://img.shields.io/badge/postgres-%23838185.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="Postgres">
   <img src="https://img.shields.io/badge/MongoDB-%23838185.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB">
