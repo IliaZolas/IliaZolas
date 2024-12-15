@@ -30,6 +30,8 @@
 <h3 align="center">TOOLS & SOFTWARE</h3>
 <div align="center">
    <img src="https://img.shields.io/badge/VS%20Code-%23838185.svg?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" alt="VS Code">
+   <img src="https://img.shields.io/badge/Webstorm-%23838185.svg?style=for-the-badge&amp;logo=webstorm&amp;logoColor=white" alt="Webstorm">
+   <img src="https://img.shields.io/badge/Notion-%23838185.svg?style=for-the-badge&amp;logo=notion&amp;logoColor=white" alt="Notion">
    <img src="https://img.shields.io/badge/Google%20Analytics%204-%23838185.svg?style=for-the-badge&amp;logo=googleanalytics&amp;logoColor=white" alt="Google Analytics">
    <img src="https://img.shields.io/badge/Google%20Tag%20Manager-%23838185.svg?style=for-the-badge&amp;logo=googleanalytics&amp;logoColor=white" alt="Google Tag Manager">
    <img src="https://img.shields.io/badge/Google%20Search%20Console-%23838185.svg?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Google Search Console">
