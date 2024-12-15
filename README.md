@@ -43,6 +43,7 @@
    <img src="https://img.shields.io/badge/Semrush-%23838185.svg?style=for-the-badge&amp;logo=semrush&amp;logoColor=white" alt="SEMrush">
    <img src="https://img.shields.io/badge/Hootsuite-%23838185.svg?style=for-the-badge&amp;logo=hootsuite&amp;logoColor=white" alt="Hootsuite">
    <img src="https://img.shields.io/badge/Mailchimp-%23838185.svg?style=for-the-badge&amp;logo=mailchimp&amp;logoColor=white" alt="Mailchimp">
+   <img src="https://img.shields.io/badge/Postmark-%23838185.svg?style=for-the-badge&amp;logo=postmark&amp;logoColor=white" alt="Postmark">
    <img src="https://img.shields.io/badge/iContact-%23838185.svg?style=for-the-badge&amp;logo=email&amp;logoColor=white" alt="iContact">
    <img src="https://img.shields.io/badge/Hubspot-%23838185.svg?style=for-the-badge&amp;logo=hubspot&amp;logoColor=white" alt="Hubspot">
    <img src="https://img.shields.io/badge/Creative%20Suite-%23838185.svg?style=for-the-badge&amp;logo=adobe&amp;logoColor=white" alt="Creative Suite">
