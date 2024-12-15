@@ -24,7 +24,7 @@
    <img src="https://img.shields.io/badge/Railway-%23838185.svg?style=for-the-badge&amp;logo=railway&amp;logoColor=white" alt="Railway">
    <img src="https://img.shields.io/badge/OpenAI-%23838185.svg?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="OpenAI">
    <img src="https://img.shields.io/badge/Payload%20CMS-%23838185.svg?style=for-the-badge&amp;logo=payloadcms&amp;logoColor=white" alt="Payload CMS">
-   <img src="https://img.shields.io/badge/Storyblok.svg?style=for-the-badge&amp;logo=storyblok&amp;logoColor=white" alt="Storyblok">
+   <img src="https://img.shields.io/badge/Storyblok-%23838185.svg?style=for-the-badge&amp;logo=storyblok&amp;logoColor=white" alt="Storyblok">
 </div>
 <h3 align="center">TOOLS & SOFTWARE</h3>
 <div align="center">
