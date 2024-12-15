@@ -33,7 +33,7 @@
    <img src="https://img.shields.io/badge/Google%20Analytics%204-%23838185.svg?style=for-the-badge&amp;logo=googleanalytics&amp;logoColor=white" alt="Google Analytics">
    <img src="https://img.shields.io/badge/Google%20Tag%20Manager-%23838185.svg?style=for-the-badge&amp;logo=googleanalytics&amp;logoColor=white" alt="Google Tag Manager">
    <img src="https://img.shields.io/badge/Google%20Search%20Console-%23838185.svg?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Google Search Console">
-   <img src="https://img.shields.io/badge/Google%20Cloud%20Console-%23838185.svg?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Google Cloud Console">
+   <img src="https://img.shields.io/badge/Google%20Cloud%20Console-%23838185.svg?style=for-the-badge&amp;logo=googlecloud&amp;logoColor=white" alt="Google Cloud Console">
    <img src="https://img.shields.io/badge/Google%20Ads-%23838185.svg?style=for-the-badge&amp;logo=googleads&amp;logoColor=white" alt="Google Ads">
    <img src="https://img.shields.io/badge/Facebook%20Ads%20Manager-%23838185.svg?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook">
    <img src="https://img.shields.io/badge/Linkedin%20Ads-%23838185.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin">
