@@ -26,7 +26,6 @@
    <img src="https://img.shields.io/badge/Payload%20CMS-%23838185.svg?style=for-the-badge&amp;logo=payloadcms&amp;logoColor=white" alt="Payload CMS">
    <img src="https://img.shields.io/badge/Storyblok-%23838185.svg?style=for-the-badge&amp;logo=storyblok&amp;logoColor=white" alt="Storyblok">
    <img src="https://img.shields.io/badge/AWS-%23838185.svg?style=for-the-badge&amp;logo=amazon&amp;logoColor=white" alt="AWS">
-   <img src="https://img.shields.io/badge/Websockets-%23838185.svg?style=for-the-badge&amp;logo=websocket&amp;logoColor=white" alt="Websocket">
 </div>
 <h3 align="center">TOOLS & SOFTWARE</h3>
 <div align="center">
@@ -34,6 +33,7 @@
    <img src="https://img.shields.io/badge/Google%20Analytics%204-%23838185.svg?style=for-the-badge&amp;logo=googleanalytics&amp;logoColor=white" alt="Google Analytics">
    <img src="https://img.shields.io/badge/Google%20Tag%20Manager-%23838185.svg?style=for-the-badge&amp;logo=googleanalytics&amp;logoColor=white" alt="Google Tag Manager">
    <img src="https://img.shields.io/badge/Google%20Search%20Console-%23838185.svg?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Google Search Console">
+   <img src="https://img.shields.io/badge/Google%20Cloud%20Console-%23838185.svg?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Google Cloud Console">
    <img src="https://img.shields.io/badge/Google%20Ads-%23838185.svg?style=for-the-badge&amp;logo=googleads&amp;logoColor=white" alt="Google Ads">
    <img src="https://img.shields.io/badge/Facebook%20Ads%20Manager-%23838185.svg?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook">
    <img src="https://img.shields.io/badge/Linkedin%20Ads-%23838185.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin">
