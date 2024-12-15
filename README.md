@@ -26,6 +26,7 @@
    <img src="https://img.shields.io/badge/Payload%20CMS-%23838185.svg?style=for-the-badge&amp;logo=payloadcms&amp;logoColor=white" alt="Payload CMS">
    <img src="https://img.shields.io/badge/Storyblok-%23838185.svg?style=for-the-badge&amp;logo=storyblok&amp;logoColor=white" alt="Storyblok">
    <img src="https://img.shields.io/badge/AWS-%23838185.svg?style=for-the-badge&amp;logo=amazon&amp;logoColor=white" alt="AWS">
+   <img src="https://img.shields.io/badge/Websockets-%23838185.svg?style=for-the-badge&amp;logo=websocket&amp;logoColor=white" alt="Websocket">
 </div>
 <h3 align="center">TOOLS & SOFTWARE</h3>
 <div align="center">
